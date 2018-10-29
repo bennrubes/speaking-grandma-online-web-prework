@@ -13,7 +13,6 @@
 # 'I LOVE YOU TOO PUMPKIN!'
   if speak_to_grandma(greeting.upcase)
     "NO, NOT SINCE 1938!"
-    binding.pry
   elsif speak_to_grandma(greeting == "I LOVE YOU GRANDMA!")
     "I LOVE YOU TOO PUMPKIN!"
   else
